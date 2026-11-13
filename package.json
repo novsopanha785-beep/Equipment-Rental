@@ -1,0 +1,17 @@
+{
+  "name": "equipment-api",
+  "version": "1.0.0",
+  "description": "Equipment Rental REST API with plain Node.js (no Express) - WBD I midterm",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "check": "node check.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}

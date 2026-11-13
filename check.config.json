@@ -1,0 +1,6 @@
+{
+  "items": "equipment",
+  "persons": "borrowers",
+  "links": "rentals",
+  "extra": "types"
+}
